@@ -34,4 +34,4 @@ The learners act in a different environment with the following values for $\epsi
 
 The following plots report the ablation study for different values of alpha for each of the 3 experts.
 
-![Expert \epsilon = 0.0](https://github.com/lviano/CoRl_rebuttal_paper_235/envGaussianGridworld-v0type2noiseE0.0/gaifoGaussianGridworld-v0bestTrue_0_1_2_normalized_reward.pdf) 
+![Expert \epsilon = 0.0](https://github.com/lviano/CoRL_rebuttal_paper_235/blob/main/envGaussianGridworld-v0type2noiseE0.0/gaifoGaussianGridworld-v0bestTrue_0_1_2_normalized_reward.pdf) 
