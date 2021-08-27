@@ -6,7 +6,7 @@ here we present the results on our additional experiments evaluating the effecti
 
 **The environment**
 
-We consider a continuous gridworld, we denote the horizontal coordinate as `\\( x \\)` and vertical one as \\( y \\). We enforce spatial constarints, i.e. \\( x \in [0,1], y \in [0,1] \\).
+We consider a continuous gridworld, we denote the horizontal coordinate as `\( x \)` and vertical one as \\( y \\). We enforce spatial constarints, i.e. \\( x \in [0,1], y \in [0,1] \\).
 
 The agent starts in coordinates \\([0, 1]\\) (the upper left corner) and the episode ends when the agent reaches the lower right region defined by the indicator function $\mathbf{1}\bc{x\in [0.95, 1], y \in [-1, -0.95]} $.
 
